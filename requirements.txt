@@ -1,0 +1,8 @@
+python-docx
+openpyxl
+python-pptx
+lxml
+Pillow
+pydub
+pikepdf
+PyQt5
